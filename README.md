@@ -29,3 +29,4 @@ Deploy the wisecow application as a k8s app
 "# Trigger CI" 
 "# re-trigger CI" 
 "# fix: added secrets" 
+"# retry: fixed token" 
